@@ -7,8 +7,8 @@ def introduction(name)
   puts "Hi, my name is #{name}"
 end
 
-greeting ("Josh")
-greeting ("Dan")
+introduction ("Josh")
+introduction ("Dan")
 
 
 
